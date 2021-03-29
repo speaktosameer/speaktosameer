@@ -52,7 +52,7 @@ I'm Sameer Ansari a Full Stack Web Developer and also a Mobile Developer. I Spen
 <br />
 
 #### 1.1.1. My Resume
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/speaktosameer/speaktosameer/blob/master/resumes/Sameer_Ansari_CV.pdf)
 - :email: speaktosameernp@gmail.com
 
 
@@ -72,30 +72,13 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 If u thing i can help you please let me know...
 
-#### 1.1.3. What is CoderOne?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
-#### 1.1.4. Coding Stats
-
+#### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
 <!--END_SECTION:waka-->
 
-#### 1.1.5. Github Stats
+#### 1.1.4. Github Stats
 
 ![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=speaktosameer&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E

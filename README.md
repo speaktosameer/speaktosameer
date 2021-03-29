@@ -85,7 +85,7 @@ If u thing i can help you please let me know...
 
 ![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=speaktosameer&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-#### 1.1.4. Most Used Languages
+#### 1.1.5. Most Used Languages
 
 <img align="left" alt="Sameers GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speaktosameer" />
 

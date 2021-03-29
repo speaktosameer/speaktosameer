@@ -82,3 +82,9 @@ If u thing i can help you please let me know...
 ![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=speaktosameer&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
+
+
+[reactplaylist]: https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+[vscodetutorial]: https://www.youtube.com/watch?v=hM0-z6WL8XU&list=PLC3y8-rFHvwhleivq1QohBZN4d8IdzG3c
+[htmltutorial]: https://www.youtube.com/watch?v=nJjbbAC2N28&list=PLdYkObur3tQtBTbYirZGcrWPuPRmmDA6n
+[javascripttutorial]: https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV

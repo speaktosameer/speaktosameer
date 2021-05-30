@@ -56,7 +56,7 @@ I'm Sameer Ansari a Full Stack Web Developer and also a Mobile Developer. I Spen
 <br />
 
 #### 1.1.1. My Resume
-- :paperclip: [My Resume/CV](https://github.com/speaktosameer/speaktosameer/blob/master/resumes/Sameer_Ansari_CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/speaktosameer/speaktosameer/blob/master/resumes/Sameer's Resume.pdf)
 - :email: speaktosameernp@gmail.com
 
 

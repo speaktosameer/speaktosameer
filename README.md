@@ -78,11 +78,7 @@ If u thing i can help you please let me know...
 #### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
 ```text
-CSS          1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   39.82 % 
-JavaScript   1 hr 4 mins     █████████▒░░░░░░░░░░░░░░░   36.70 % 
-C#           27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-HTML         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-CSHTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+JavaScript   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -78,7 +78,8 @@ If u thing i can help you please let me know...
 #### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 36 mins   █████████████████████████   99.84 % 
+JavaScript   2 hrs 36 mins   ████████████████████████░   95.69 % 
+Dart         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -78,10 +78,9 @@ If u thing i can help you please let me know...
 #### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.91 % 
-Dart         1 hr 41 mins    █████████▒░░░░░░░░░░░░░░░   37.46 % 
-Groovy       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Dart         1 hr 41 mins    ██████████████████████▒░░   88.93 % 
+Groovy       10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 <!--END_SECTION:waka-->
 

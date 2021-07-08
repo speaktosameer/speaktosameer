@@ -78,11 +78,11 @@ If u thing i can help you please let me know...
 #### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 21 mins   █████████████░░░░░░░░░░░░   52.23 % 
-Dart         1 hr 41 mins    █████████▒░░░░░░░░░░░░░░░   37.45 % 
-Groovy       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JavaScript   5 hrs 53 mins   ██████████████████░░░░░░░   71.51 % 
+Dart         1 hr 34 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.12 % 
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Groovy       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -78,11 +78,11 @@ If u thing i can help you please let me know...
 #### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   31 hrs 33 mins  █████████████████████░░░░   84.09 % 
-HTML         3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-CSS          1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-JSON         43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+JavaScript   30 hrs 13 mins  ████████████████████░░░░░   80.32 % 
+CSS          3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+HTML         3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
 

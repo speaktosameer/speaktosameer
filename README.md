@@ -78,7 +78,10 @@ If u thing i can help you please let me know...
 #### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP          33 mins         ███████████████████░░░░░░   75.88 % 
+HTML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+CSS          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+SQL          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 <!--END_SECTION:waka-->
 

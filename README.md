@@ -78,7 +78,7 @@ If u thing i can help you please let me know...
 #### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
 ```text
-HTML         1 min           ███████████████████▓░░░░░   78.56 % 
+HTML         8 mins          ███████████████████████▓░   94.47 % 
 ```
 <!--END_SECTION:waka-->
 

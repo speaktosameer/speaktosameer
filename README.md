@@ -78,7 +78,7 @@ If u thing i can help you please let me know...
 #### 1.1.3. Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

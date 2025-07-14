@@ -54,7 +54,7 @@ I'm Sameer Ansari Web Developer and also a Mobile Developer. I Spend most of tim
 <br />
 
 #### 1.1.1. My Resume
-- :paperclip: [My Resume/CV](https://github.com/speaktosameer/speaktosameer/blob/master/resumes/Sameer_Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/speaktosameer/speaktosameer/blob/master/resumes/Sameer_Ansari_CV.pdf)
 - :email: speaktosameernp@gmail.com
 
 
